@@ -54,3 +54,6 @@ To match my font in the Obsidian Vault please download the JetBrainsMono Nerd fo
 - In Appearance > Fonts > Text-Font 
 	- choose JetBrainsMono Nerd Font
 
+
+## Introduction
+As your Obsidian Vault is now set up and ready to go, we can move a step further. Our home for this trip is now the directory **01-Introduction**. See you there!
