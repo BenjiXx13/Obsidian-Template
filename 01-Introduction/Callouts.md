@@ -1,4 +1,4 @@
-## Callouts
+# Callouts
 *Note:* You can change the callouts name next to the icon...
 -> `>[!info] Here goes your text`
 
