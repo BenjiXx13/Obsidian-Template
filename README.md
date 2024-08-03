@@ -1,6 +1,27 @@
 # Obsidian Template Repository for public use
 
-This repository is intended to have a starting point for everybody in Obsdian. Helpful plugins are listed and describer below how to use them. 
+## ⚠️ Important!
+
+This repository is intended to have an entry point for you. So please clone this repository and remove the origin repository afterwards. You can use your own Git repository by adding your repository URL to the local repository. 
+
+Clone the repo to your local file system: 
+
+```bash
+git clone https://github.com/BenjiXx13/Obsidian-Template.git
+```
+
+Remove the current origin:
+
+```bash
+git remove origin
+```
+
+Add your repository url to push changes:
+
+```bash
+git remote add origin your-repository-url
+git push -u origin master
+```
 
 ## Setup
 ### Plugins to install
