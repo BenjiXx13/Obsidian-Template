@@ -1,0 +1,7 @@
+# Mac OS specific folders
+.DS_Store
+
+# Obsidian specific folders
+.obsidian/cache
+.obsidian/workspace
+
