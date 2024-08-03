@@ -1,0 +1,32 @@
+.callout[data-callout="progress"] {
+    --callout-color: 52, 152, 219;
+    --callout-icon: lucide-loader;
+}
+.callout[data-callout="code"] {
+    --callout-color: 244, 246, 247;
+    --callout-icon: lucide-file-code-2;
+}
+.callout[data-callout="review"] {
+	--callout-color: 215, 189, 226;
+	--callout-icon: lucide-scan-eye;
+}
+.callout[data-callout="qa"] {
+	--callout-color: 244, 208, 63;
+	--callout-icon: lucide-search-code;
+}
+.callout[data-callout="backlog"] {
+	--callout-color: 243, 156, 18;
+	--callout-icon: lucide-circle-dashed;
+}
+.callout[data-callout="meeting"] {
+	--callout-color: 229, 0, 156;	
+	--callout-icon: lucide-phone-call;
+}
+.callout[data-callout="solved"] {
+	--callout-color: 62, 255, 0;	
+	--callout-icon: lucide-bug-off;
+}
+.callout[data-callout="dropped"] {
+	--callout-color: 252, 69, 69;	
+	--callout-icon: lucide-x;
+}

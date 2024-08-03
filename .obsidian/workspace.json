@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "d90c5c77ef3ff621",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d070dda5f43ac32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "503d6b7ff4249c02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a375303a5c52dba",
+    "type": "split",
+    "children": [
+      {
+        "id": "659f0a062400db80",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd9c80843c9666f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "790f589cc74247d7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "594f36c55bdadae8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "99ef382337752473",
+    "type": "split",
+    "children": [
+      {
+        "id": "e682572fe434b86a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "406837833266e12b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ea9c2497e271c8b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "375d19f909cec524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39c993385601313c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "503d6b7ff4249c02",
+  "lastOpenFiles": [
+    "01-Introduction/Headings.md",
+    "02-Images",
+    "sync.sh",
+    "01-Introduction/How_To.md",
+    "01-Introduction/Callouts.md",
+    "01-Introduction/SpeechBubbles.md",
+    "01-Introduction/Progress_Bar.md",
+    "01-Introduction/Checkboxes.md",
+    "README.md",
+    "01-Introduction/usefull.md",
+    "99-Templates/Story_Template.md",
+    "99-Templates/Meeting-Template.md",
+    "99-Templates/Meeting-Template_noDate.md",
+    "99-Templates/Meeting-Template_Date.md",
+    "99-Templates/Icon_WontDo.md",
+    "99-Templates/Icon_ToDO.md",
+    "99-Templates/Icon_Refinement.md",
+    "99-Templates/Icon_NewFeature.md",
+    "99-Templates/Icon_Docu.md",
+    "99-Templates/Icon_Delivery.md",
+    "99-Templates/Icon_Calendar.md",
+    "99-Templates/Icon_Bug.md",
+    "99-Templates/DD-MM-YYYY.md",
+    "99-Templates/CodeBlock.md",
+    "99-Templates/Callout_ToDo.md",
+    "99-Templates/Callout_Summary.md",
+    "99-Templates/Callout_SolvedBug.md",
+    "99-Templates",
+    "01-Introduction"
+  ]
+}
